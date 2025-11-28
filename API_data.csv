@@ -1,0 +1,101 @@
+,ticker,name,market,primary_exchange,type,active
+0,A,Agilent Technologies Inc.,stocks,XNYS,CS,True
+1,AA,Alcoa Corporation,stocks,XNYS,CS,True
+2,AAA,Alternative Access First Priority CLO Bond ETF,stocks,ARCX,ETF,True
+3,AAAA,Amplius Aggressive Asset Allocation ETF,stocks,BATS,ETF,True
+4,AAAU,Goldman Sachs Physical Gold ETF Shares,stocks,BATS,ETF,True
+5,AACB,Artius II Acquisition Inc. Class A Ordinary Shares,stocks,XNAS,CS,True
+6,AACBR,Artius II Acquisition Inc. Rights,stocks,XNAS,RIGHT,True
+7,AACBU,Artius II Acquisition Inc. Units,stocks,XNAS,UNIT,True
+8,AACG,ATA Creativity Global American Depositary Shares,stocks,XNAS,ADRC,True
+9,AADR,AdvisorShares Dorsey Wright ADR ETF,stocks,XNAS,ETF,True
+10,AAL,American Airlines Group Inc.,stocks,XNAS,CS,True
+11,AALG,Leverage Shares 2X Long AAL Daily ETF,stocks,XNAS,ETF,True
+12,AAM,AA Mission Acquisition Corp.,stocks,XNYS,CS,True
+13,AAM.U,"AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",stocks,XNYS,UNIT,True
+14,AAM.WS,"AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",stocks,XNYS,WARRANT,True
+15,AAME,Atlantic American Corp,stocks,XNAS,CS,True
+16,AAMI,Acadian Asset Management Inc.,stocks,XNYS,CS,True
+17,AAOI,"Applied Optoelectronics, Inc.",stocks,XNAS,CS,True
+18,AAON,Aaon Inc,stocks,XNAS,CS,True
+19,AAP,ADVANCE AUTO PARTS INC,stocks,XNYS,CS,True
+20,AAPB,GraniteShares ETF Trust GraniteShares 2x Long AAPL Daily ETF,stocks,XNAS,ETF,True
+21,AAPD,Direxion Daily AAPL Bear 1X Shares,stocks,XNAS,ETF,True
+22,AAPG,Ascentage Pharma Group International American Depository Shares,stocks,XNAS,ADRC,True
+23,AAPL,Apple Inc.,stocks,XNAS,CS,True
+24,AAPR,Innovator Equity Defined Protection ETF - 2 Yr to April 2026,stocks,BATS,ETF,True
+25,AAPU,Direxion Shares ETF Trust Direxion Daily AAPL Bull 2X Shares,stocks,XNAS,ETF,True
+26,AAPW,Roundhill AAPL WeeklyPay ETF,stocks,BATS,ETF,True
+27,AAPX,T-Rex 2X Long Apple Daily Target ETF,stocks,BATS,ETF,True
+28,AAPY,Kurv Yield Premium Strategy Apple (AAPL) ETF,stocks,BATS,ETF,True
+29,AARD,"Aardvark Therapeutics, Inc. Common Stock",stocks,XNAS,CS,True
+30,AAT,"AMERICAN ASSETS TRUST, INC.",stocks,XNYS,CS,True
+31,AAUC,Allied Gold Corporation,stocks,XNYS,CS,True
+32,AAUM,Tema Alternative Asset Managers ETF,stocks,BATS,ETF,True
+33,AAUS,Alpha Architect US Equity ETF,stocks,XNAS,ETF,True
+34,AAVM,EA Series Trust Alpha Architect Global Factor Equity ETF,stocks,XNAS,ETF,True
+35,AAXJ,iShares MSCI All Country Asia ex Japan ETF,stocks,XNAS,ETF,True
+36,AB,"AllianceBernstein Holding, L.P.",stocks,XNYS,CS,True
+37,ABAT,American Battery Technology Company Common Stock,stocks,XNAS,CS,True
+38,ABBV,ABBVIE INC.,stocks,XNYS,CS,True
+39,ABCB,Ameris Bancorp,stocks,XNYS,CS,True
+40,ABCL,AbCellera Biologics Inc. Common Shares,stocks,XNAS,CS,True
+41,ABCS,Alpha Blue Capital US Small-Mid Cap Dynamic ETF,stocks,XNAS,ETF,True
+42,ABEO,Abeona Therapeutics Inc. Common Stock,stocks,XNAS,CS,True
+43,ABEQ,Absolute Select Value ETF,stocks,ARCX,ETF,True
+44,ABEV,AMBEV S.A.,stocks,XNYS,ADRC,True
+45,ABFL,Abacus FCF Leaders ETF,stocks,BATS,ETF,True
+46,ABG,"Asbury Automotive Group, Inc.",stocks,XNYS,CS,True
+47,ABI,VictoryShares Pioneer Asset-Based Income ETF,stocks,XNAS,ETF,True
+48,ABIG,Argent Large Cap ETF,stocks,XNAS,ETF,True
+49,ABL,"Abacus Global Management, Inc. Class A Common Stock",stocks,XNAS,CS,True
+50,ABLD,Abacus FCF Real Assets Leaders ETF,stocks,BATS,ETF,True
+51,ABLG,Abacus FCF International Leaders ETF,stocks,BATS,ETF,True
+52,ABLLL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",stocks,XNAS,CS,True
+53,ABLS,Abacus FCF Small Cap Leaders ETF,stocks,BATS,ETF,True
+54,ABLV,Able View Global Inc. Class B Ordinary Shares,stocks,XNAS,CS,True
+55,ABLVW,Able View Global Inc. Warrant,stocks,XNAS,WARRANT,True
+56,ABM,"ABM Industries, Inc.",stocks,XNYS,CS,True
+57,ABNB,"Airbnb, Inc. Class A Common Stock",stocks,XNAS,CS,True
+58,ABNG,Leverage Shares 2x Long ABNB Daily ETF,stocks,XNAS,ETF,True
+59,ABNY,YieldMax ABNB Option Income Strategy ETF,stocks,ARCX,ETS,True
+60,ABOS,"Acumen Pharmaceuticals, Inc. Common Stock",stocks,XNAS,CS,True
+61,ABOT,Abacus FCF Innovation Leaders ETF,stocks,BATS,ETF,True
+62,ABP,"Abpro Holdings, Inc Common Stock",stocks,XNAS,CS,True
+63,ABPWW,"Abpro Holdings, Inc. Warrant",stocks,XNAS,WARRANT,True
+64,ABR,"Arbor Realty Trust, Inc.",stocks,XNYS,CS,True
+65,ABRpD,"Arbor Realty Trust, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share",stocks,XNYS,PFD,True
+66,ABRpE,"Arbor Realty Trust, Inc. 6.25% Series E Cumulative Redeemable Preferred Stock",stocks,XNYS,PFD,True
+67,ABRpF,"Arbor Realty Trust, Inc. 6.25% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per share",stocks,XNYS,PFD,True
+68,ABSI,Absci Corporation Common Stock,stocks,XNAS,CS,True
+69,ABT,Abbott Laboratories,stocks,XNYS,CS,True
+70,ABTC,American Bitcoin Corp. Class A Common Stock,stocks,XNAS,CS,True
+71,ABTS,Abits Group Inc Ordinary Shares,stocks,XNAS,CS,True
+72,ABUS,Arbutus Biopharma Corporation Common Stock,stocks,XNAS,CS,True
+73,ABVC,"ABVC BioPharma, Inc. Common Stock",stocks,XNAS,CS,True
+74,ABVE,Above Food Ingredients Inc. Common Stock,stocks,XNAS,CS,True
+75,ABVEW,Above Food Ingredients Inc. Warrants,stocks,XNAS,WARRANT,True
+76,ABVX,Abivax SA American Depositary Shares,stocks,XNAS,ADRC,True
+77,ABXB,Abacus Flexible Bond Leaders ETF,stocks,BATS,ETF,True
+78,ACA,"Arcosa, Inc. Common Stock",stocks,XNYS,CS,True
+79,ACAD,Acadia Pharmaceuticals Inc.,stocks,XNAS,CS,True
+80,ACB,Aurora Cannabis Inc. Common Shares,stocks,XNAS,CS,True
+81,ACCL,Acco Group Holdings Limited Ordinary Shares,stocks,XNAS,CS,True
+82,ACCO,Acco Brands Corporation,stocks,XNYS,CS,True
+83,ACCS,ACCESS Newswire Inc.,stocks,XASE,CS,True
+84,ACDC,ProFrac Holding Corp. Class A Common Stock,stocks,XNAS,CS,True
+85,ACEI,Innovator Equity Autocallable Income Strategy ETF,stocks,ARCX,ETF,True
+86,ACEL,"Accel Entertainment, Inc.",stocks,XNYS,CS,True
+87,ACEP,ARS Core Equity Portfolio ETF,stocks,XNAS,ETF,True
+88,ACES,ALPS Clean Energy ETF,stocks,ARCX,ETF,True
+89,ACET,"Adicet Bio, Inc. Common Stock",stocks,XNAS,CS,True
+90,ACFN,"Acorn Energy, Inc. Common Stock",stocks,XNAS,CS,True
+91,ACGL,Arch Capital Group Ltd,stocks,XNAS,CS,True
+92,ACGLN,"Arch Capital Group Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",stocks,XNAS,CS,True
+93,ACGLO,"Arch Capital Group Ltd. Depositary Shares Each Representing 1/1,000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares, Series F",stocks,XNAS,PFD,True
+94,ACGR,American Century Large Cap Growth ETF,stocks,ARCX,ETF,True
+95,ACHC,"Acadia Healthcare Company, Inc.",stocks,XNAS,CS,True
+96,ACHR,Archer Aviation Inc.,stocks,XNYS,CS,True
+97,ACHR.WS,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",stocks,XNYS,WARRANT,True
+98,ACHV,"Achieve Life Sciences, Inc.",stocks,XNAS,CS,True
+99,ACI,"Albertsons Companies, Inc.",stocks,XNYS,CS,True
